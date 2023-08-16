@@ -4,7 +4,7 @@ Bem-vindo ao DevSorteio! Este é um projeto simples desenvolvido em HTML, CSS e 
 
 ## Demonstração Ao Vivo
 
-[Clique aqui para experimentar o DevSorteio](https://seu-nome-de-usuario.github.io/DevSorteio/).
+[Clique aqui para experimentar o DevSorteio](https://faael-oliveira.github.io/Sorteador/).
 
 ## Funcionalidades
 
