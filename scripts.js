@@ -11,6 +11,7 @@ function generateNumber() {
         // Exibe em o número gerado em um alerta na tela
         alert(result)
     } else {
+        // Exibe o texto abaixo autoexplicativo 
         alert("O primeiro número precisa ser menor que o segundo")
     }
 
