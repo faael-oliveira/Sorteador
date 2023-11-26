@@ -7,8 +7,8 @@ function generateNumber() {
     // Se o primeiro número for menor que o segundo pode prosseguir
     if (min < max) {
         // Gera um número inteiro aleatório dentro do intervalo [min, max]
-        const result = Math.floor(Math.random() * (max - min + 1) + min);
-        // Exibe em o número gerado em um alerta na tela
+        const result = Math.floor(Math.random() * (max - min + 1) + min)
+        // Exibe o número gerado em um alerta na tela
         alert(result)
     } else {
         // Exibe o texto abaixo autoexplicativo 
